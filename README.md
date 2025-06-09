@@ -1,4 +1,4 @@
-# ADA Lab Programs – VTU 4th Sem (C)
+# ADA Lab Programs BCSL404  – VTU 4th Sem (C)
 
 This repository contains simple and easy-to-understand C implementations of all the ADA (Analysis and Design of Algorithms) lab programs for VTU's 4th semester syllabus. The main goal is to help students quickly grasp the core logic of each algorithm without getting lost in complexity.
 
